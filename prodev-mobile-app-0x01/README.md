@@ -13,7 +13,7 @@ By leveraging these predefined components, React Native ensures that your app ma
 **Styling in React Native**
 Just like in web development, where you use CSS to style HTML elements, React Native provides a flexible styling system that allows you to customize your components. Styling in React Native is typically done using JavaScript objects, similar to inline styles in React web applications.
 
-[![alt text](image.png)]
+![alt text](image.png)
 
 #### Instructions
 
